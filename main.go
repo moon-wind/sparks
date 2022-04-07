@@ -1,7 +1,7 @@
 package main
 
 import (
-	"demo2/utils"
+	"github.com/moon-wind/sparks/utils"
 	"fmt"
 	"net/http"
 	"sync"
